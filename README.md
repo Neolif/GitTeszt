@@ -1,2 +1,2 @@
 # GitTeszt
-Ez egy teszt
+Ez egy teszt ami hamarosan eltávolításra kerül..
